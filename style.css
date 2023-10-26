@@ -70,7 +70,7 @@ h1 {
 }
 
 mark {
-    color: #9D00FF;
+    color: white;
     background: #9D00FF;
 }
 
@@ -268,8 +268,8 @@ html {
 
 body {
     min-height: 100%;
-    color: #333;
-    background-color: #fff;
+    color: #f1e8e8;
+    background-color: #9D00FF;
     margin: 0;
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -2247,8 +2247,8 @@ body {
 }
 
 .button {
-    color: white;
-    background-color: #9D00FF;
+    color: #9D00FF;
+    background-color: white;
     margin-top: 0;
     padding: 30px 25px;
     font-family: Baskervville, sans-serif;
@@ -2301,8 +2301,8 @@ body {
 }
 
 .blacktext {
-    color: #fff;
-    background-color: #9D00FF;
+    color: #9D00FF;
+    background-color: white;
     border: 1px solid #9D00FF;
     padding: 25px 20px 15px;
     font-family: Baskervville, sans-serif;
@@ -2327,20 +2327,20 @@ body {
 }
 
 .tritext#9D00FF {
-    color: #9D00FF;
+    color: white;
 }
 
 .link {
-    color: #9D00FF;
+    color: white;
     text-decoration: none;
 }
 
 .link:hover {
-    color: #9D00FF;
+    color: white;
 }
 
 .link:visited {
-    color: #9D00FF;
+    color: white;
 }
 
 .section-3 {
@@ -2374,12 +2374,12 @@ body {
 }
 
 .description.subtext.blue {
-    color: #1a2df3;
-    -webkit-text-stroke-color: #1a2df3;
+    color: white;
+    -webkit-text-stroke-color: white;
 }
 
 .description.subtext.#9D00FF {
-    color: #9D00FF;
+    color: white;
 }
 
 .div-block {
@@ -2462,14 +2462,14 @@ body {
 }
 
 .text-block-2 {
-    color: #9D00FF;
+    color: white;
     margin-bottom: 0;
     padding-bottom: 0;
     font-size: 20px;
 }
 
 .text-block-3 {
-    color: #1a2df3;
+    color: white;
     margin-top: 40px;
     padding-top: 0;
     padding-bottom: 0;
@@ -2477,7 +2477,7 @@ body {
 }
 
 .text-block-4 {
-    color: #9D00FF;
+    color: white;
     margin-top: 20px;
 }
 
@@ -2497,7 +2497,7 @@ body {
 }
 
 .link-block {
-    color: #1a2df3;
+    color: white;
     text-decoration: none;
     position: absolute;
     top: auto;
@@ -2507,21 +2507,21 @@ body {
 }
 
 .link-block:hover {
-    color: #9D00FF;
+    color: white;
 }
 
 .link-block-2 {
-    color: #1a2df3;
+    color: white;
     text-decoration: none;
 }
 
 .link-block-2:hover {
-    color: #9D00FF;
+    color: white;
 }
 
 .link-block-3,
 .link-block-4 {
-    color: #1a2df3;
+    color: white;
     text-decoration: none;
 }
 
@@ -2567,7 +2567,7 @@ body {
 
 .text-block-5 {
     width: 1000px;
-    color: #9D00FF;
+    color: white;
     font-size: 14px;
     position: relative;
     top: -681px;
@@ -2580,7 +2580,7 @@ body {
 
 .text-block-8 {
     width: 200px;
-    color: #1a2df3;
+    color: white;
     background-color: #fff;
     padding: 14px 1px 20px 17px;
     font-size: 18px;
@@ -2793,11 +2793,11 @@ body {
 }
 
 .text-block-9 {
-    color: #1a2df3;
+    color: white;
 }
 
 .text-block-10 {
-    color: #1a2df3;
+    color: white;
     margin-bottom: 150px;
 }
 
@@ -2884,7 +2884,7 @@ body {
 
 .text-block-12 {
     width: 45px;
-    color: #1a2df3;
+    color: white;
     font-family: Times New Roman, TimesNewRoman, Times, Baskerville, Georgia, serif;
     font-weight: 700;
     line-height: 25px;
@@ -2895,7 +2895,7 @@ body {
 
 .text-block-13 {
     width: 146px;
-    color: #9D00FF;
+    color: white;
     text-align: right;
     font-family: Baskervville, sans-serif;
     font-size: 20px;
@@ -2919,7 +2919,7 @@ body {
 
 .text-block-14 {
     width: 200px;
-    color: #1a2df3;
+    color: white;
     background-color: #fff;
     font-size: 32px;
     line-height: 40px;
@@ -2938,7 +2938,7 @@ body {
 }
 
 .div-block-7 {
-    color: #1a2df3;
+    color: white;
     align-self: auto;
     position: relative;
     left: auto;
@@ -2946,7 +2946,7 @@ body {
 
 .text-block-16 {
     width: 509px;
-    color: #9D00FF;
+    color: white;
     font-size: 16px;
     position: relative;
     top: -6092px;
@@ -2970,11 +2970,11 @@ body {
 
 .text-block-18 {
     width: 301px;
-    color: #9D00FF;
+    color: white;
 }
 
 .text-block-19 {
-    color: #9D00FF;
+    color: white;
     line-height: 25px;
     position: relative;
     left: 144px;
@@ -2988,7 +2988,7 @@ body {
 }
 
 .text-block-20 {
-    color: #9D00FF;
+    color: white;
     margin-bottom: 23px;
     font-size: 25px;
     position: relative;
@@ -3006,7 +3006,7 @@ body {
 
 .text-block-23 {
     width: 400px;
-    color: #9D00FF;
+    color: white;
     font-size: 32px;
     line-height: 40px;
     position: relative;
@@ -3015,7 +3015,7 @@ body {
 }
 
 .div-block-10 {
-    color: #9D00FF;
+    color: white;
     font-size: 32px;
     position: relative;
     top: 2487px;
@@ -3049,7 +3049,7 @@ body {
 
 .text-block-26 {
     width: 300px;
-    color: #1a2df3;
+    color: white;
 }
 
 .text-block-27 {
@@ -3085,7 +3085,7 @@ body {
 
 .text-block-29 {
     width: 300px;
-    color: #9D00FF;
+    color: white;
     text-align: center;
     overflow-wrap: break-word;
     font-size: 50px;
@@ -3224,7 +3224,7 @@ body {
     }
 
     .tritext#9D00FF {
-        color: #9D00FF;
+        color: white;
         font-family: Baskervville, sans-serif;
         font-size: 32px;
         font-style: italic;
